@@ -10,6 +10,7 @@ A) Install Homebrew
 B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
+
 The anser is B.
 
 2. Which command verifies the Dart installation on macOS?
@@ -19,6 +20,7 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
+The answer is D.
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
