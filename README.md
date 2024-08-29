@@ -87,7 +87,7 @@ B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
-The answer is C
+The answer is C.
 
 #MySQL Installation
 
@@ -107,7 +107,7 @@ B) Server Only
 C) Full
 D) Custom
 
-The answer is A
+The answer is A.
 
 Which products should you select during the MySQL installation?
 
@@ -125,7 +125,7 @@ B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
-The answer is A
+The answer is A.
 
 How do you begin managing your database after installing MySQL?
 
@@ -134,4 +134,4 @@ B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
 
-The answer is B
+The answer is B.
