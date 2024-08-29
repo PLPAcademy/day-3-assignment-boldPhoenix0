@@ -29,6 +29,8 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
+The answer is B
+
 
 4. What command is used to run a newly created Flutter app?
 
@@ -36,6 +38,8 @@ A) flutter start
 B) flutter build
 C) flutter run
 D) flutter init
+
+The answer is C.
 
 
 #Python Installation
@@ -47,12 +51,16 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
+The answer is B.
+
 Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
 B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
+
+The answer is C.
 
 How do you verify Python installation on any system?
 
@@ -61,6 +69,8 @@ B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
+The answer is A.
+
 What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
@@ -68,12 +78,16 @@ B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
+The answer is A.
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
+
+The answer is C
 
 #MySQL Installation
 
@@ -84,12 +98,16 @@ B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
 
+The answer is C.
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
 B) Server Only
 C) Full
 D) Custom
+
+The answer is A
 
 Which products should you select during the MySQL installation?
 
@@ -98,6 +116,8 @@ B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
 
+The answer is A.
+
 What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server
@@ -105,9 +125,13 @@ B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
+The answer is A
+
 How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+The answer is B
